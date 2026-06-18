@@ -1,29 +1,27 @@
-# Sufwaan-Amees
-# Hi, I'm Mohd Sufwaan Amees 👋
+# Hi, I'm Sufwaan
 
-🎓 Master's in Computer Science
-☁️ Aspiring DevOps Engineer
-🚀 Learning Cloud, Kubernetes, CI/CD and MLOps
+Cloud Administrator | AWS Cloud Engineer | DevOps Engineer
+
 ## Skills
 
 - AWS
-- Docker
-- Kubernetes
 - Terraform
-- Linux
-- Git
+- Kubernetes
+- Docker
 - GitHub Actions
-- Python
 - Jenkins
+- ArgoCD
+- Prometheus
+- Grafana
+- Linux
 
-## Current Focus
+## Featured Projects
 
-- Kubernetes Administration
-- Infrastructure as Code
-- MLOps Pipelines
-- Cloud Automation
+### AWS Terraform Infrastructure
+Provision AWS resources using Infrastructure as Code.
 
-## Connect with Me
-LinkedIn:(https://www.linkedin.com/in/sufwaan-amees-7b0a291b4)
+### GitOps EKS Platform
+Automated Kubernetes deployments using ArgoCD and Helm.
 
-Email: sufwaan4@gmail.com
+### AWS Monitoring & Incident Response
+CloudWatch, SNS, Lambda and Terraform-based monitoring platform.
